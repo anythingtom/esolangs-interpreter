@@ -1,4 +1,5 @@
-//Credits: I don't know who made this
+//Credits: I don't know who made this.
+//This is a compiler of the +-=*/!&# programming language.
 
 #include <iostream>
 
