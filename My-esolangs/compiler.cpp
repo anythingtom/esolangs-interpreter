@@ -1,9 +1,5 @@
 #include <iostream>
-
 using namespace std;
-
-
-
 int main(){
     string s;
     int a[1001][1001] = {0};
