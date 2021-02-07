@@ -1,5 +1,5 @@
 //Credits: I don't know who made this.
-//This is a compiler of the +-=*/!&# programming language.
+//Possibly by User:Anonymous
 
 #include <iostream>
 
