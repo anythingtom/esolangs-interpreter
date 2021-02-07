@@ -2,9 +2,7 @@
 
 using namespace std;
 
-int main(){
-    string s;
-    cin >> s;
+void compile(string s){
     long long arr[1001][1001];
     int ptx = 0;
     int pty = 0;
@@ -46,5 +44,4 @@ int main(){
                      break;
         }
     }
-return 0;
 }
