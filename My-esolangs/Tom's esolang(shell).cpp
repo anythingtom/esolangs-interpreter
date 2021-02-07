@@ -1,4 +1,5 @@
 //Well, so I decided to make an esolang of my own. However, this one shuold be (loosely) inspired by brainfuck. Thats it
+//Also note that this is a shell. For the real compiler check the other file
 
 #include <iostream>
 
